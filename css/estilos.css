@@ -1,0 +1,21 @@
+.logo img{
+    width: 30%;
+    padding: 1% 2% 1% 5%;
+}
+
+.footer{
+    background-color: #343a40;
+    text-align: center;
+
+
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+}
+
+
+   
+
+.color-texto{
+    color:white;
+}
